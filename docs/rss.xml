@@ -1,5 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://antiwhole.github.io/Alicexu.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://antiwhole.github.io/Alicexu.github.io</link></image><lastBuildDate>Sat, 24 Jan 2026 16:01:08 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>高中数学（必修一）知识框架</title><link>https://antiwhole.github.io/Alicexu.github.io/post/gao-zhong-shu-xue-%EF%BC%88-bi-xiu-yi-%EF%BC%89-zhi-shi-kuang-jia.html</link><description>&gt; 第一章 集合与常用逻辑用语
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://antiwhole.github.io/Alicexu.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://antiwhole.github.io/Alicexu.github.io</link></image><lastBuildDate>Sat, 24 Jan 2026 17:07:33 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>高中数学（必修二）知识框架</title><link>https://antiwhole.github.io/Alicexu.github.io/post/gao-zhong-shu-xue-%EF%BC%88-bi-xiu-er-%EF%BC%89-zhi-shi-kuang-jia.html</link><description>&gt; 第五章 三角函数
+
+**课标要求**
+
+- 角与弧度制，了解任意角的概念和弧度制，能进行弧度与角度的互换，体会引入弧度制的必要性
+- 三角函数概念和性质：
+①借助单位圆理解三角函数（正弦、余弦、正切）的定义，能画出这些三角函数的图象，了解三角函数的相关性质；
+②借助图象理解正弦函数、余弦函数在[0, 2π]上，正切函数在(-π/2, π/2)上的性质。</description><guid isPermaLink="true">https://antiwhole.github.io/Alicexu.github.io/post/gao-zhong-shu-xue-%EF%BC%88-bi-xiu-er-%EF%BC%89-zhi-shi-kuang-jia.html</guid><pubDate>Sat, 24 Jan 2026 17:07:07 +0000</pubDate></item><item><title>高中数学（必修一）知识框架</title><link>https://antiwhole.github.io/Alicexu.github.io/post/gao-zhong-shu-xue-%EF%BC%88-bi-xiu-yi-%EF%BC%89-zhi-shi-kuang-jia.html</link><description>&gt; 第一章 集合与常用逻辑用语
 
 **课标要求**
 
