@@ -1,29 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>CIDA_xu blog</title><link>https://antiwhole.github.io/Alicexu.github.io</link><description>share thingking of mathmatic and art</description><copyright>CIDA_xu blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>file:///Users/xushu/Desktop/CIDA/%E8%B5%84%E6%BA%90%202.png</url><title>avatar</title><link>https://antiwhole.github.io/Alicexu.github.io</link></image><lastBuildDate>Wed, 28 Jan 2026 17:30:16 +0000</lastBuildDate><managingEditor>CIDA_xu blog</managingEditor><ttl>60</ttl><webMaster>CIDA_xu blog</webMaster><item><title>高中数学（选择性必修二）知识框架</title><link>https://antiwhole.github.io/Alicexu.github.io/post/gao-zhong-shu-xue-%EF%BC%88-xuan-ze-xing-bi-xiu-er-%EF%BC%89-zhi-shi-kuang-jia.html</link><description>&gt; 第五章 一元函数的导数及其应用
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>CIDA_xu blog</title><link>https://antiwhole.github.io/CIDAxu.github.io</link><description>share thingking of mathmatic and art</description><copyright>CIDA_xu blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>file:///Users/xushu/Desktop/CIDA/%E8%B5%84%E6%BA%90%202.png</url><title>avatar</title><link>https://antiwhole.github.io/CIDAxu.github.io</link></image><lastBuildDate>Wed, 28 Jan 2026 17:49:31 +0000</lastBuildDate><managingEditor>CIDA_xu blog</managingEditor><ttl>60</ttl><webMaster>CIDA_xu blog</webMaster><item><title>高中数学（选择性必修二）知识框架</title><link>https://antiwhole.github.io/CIDAxu.github.io/post/gao-zhong-shu-xue-%EF%BC%88-xuan-ze-xing-bi-xiu-er-%EF%BC%89-zhi-shi-kuang-jia.html</link><description>&gt; 第五章 一元函数的导数及其应用
 
 **课标要求**
 
 - 导数概念及其意义：
-①通过实例分析，经历由平均变化率过渡到瞬时变化率的过程，了解导数概念的实际背景，知道导数是关于瞬时变化率的数学表达，体会导数的内涵与思想。</description><guid isPermaLink="true">https://antiwhole.github.io/Alicexu.github.io/post/gao-zhong-shu-xue-%EF%BC%88-xuan-ze-xing-bi-xiu-er-%EF%BC%89-zhi-shi-kuang-jia.html</guid><pubDate>Sat, 24 Jan 2026 19:51:32 +0000</pubDate></item><item><title>高中数学（选择性必修一）知识框架</title><link>https://antiwhole.github.io/Alicexu.github.io/post/gao-zhong-shu-xue-%EF%BC%88-xuan-ze-xing-bi-xiu-yi-%EF%BC%89-zhi-shi-kuang-jia.html</link><description>&gt; 第一章 空间向量与立体几何
+①通过实例分析，经历由平均变化率过渡到瞬时变化率的过程，了解导数概念的实际背景，知道导数是关于瞬时变化率的数学表达，体会导数的内涵与思想。</description><guid isPermaLink="true">https://antiwhole.github.io/CIDAxu.github.io/post/gao-zhong-shu-xue-%EF%BC%88-xuan-ze-xing-bi-xiu-er-%EF%BC%89-zhi-shi-kuang-jia.html</guid><pubDate>Sat, 24 Jan 2026 19:51:32 +0000</pubDate></item><item><title>高中数学（选择性必修一）知识框架</title><link>https://antiwhole.github.io/CIDAxu.github.io/post/gao-zhong-shu-xue-%EF%BC%88-xuan-ze-xing-bi-xiu-yi-%EF%BC%89-zhi-shi-kuang-jia.html</link><description>&gt; 第一章 空间向量与立体几何
 
 **课标要求**
 
 - 空间直角坐标系：
-①在平面直角坐标系的基础上，了解空间直角坐标系，感受建立空间直角坐标系的必要性，会用空间直角坐标系刻画点的位置。</description><guid isPermaLink="true">https://antiwhole.github.io/Alicexu.github.io/post/gao-zhong-shu-xue-%EF%BC%88-xuan-ze-xing-bi-xiu-yi-%EF%BC%89-zhi-shi-kuang-jia.html</guid><pubDate>Sat, 24 Jan 2026 19:28:56 +0000</pubDate></item><item><title>高中数学（必修三）知识框架</title><link>https://antiwhole.github.io/Alicexu.github.io/post/gao-zhong-shu-xue-%EF%BC%88-bi-xiu-san-%EF%BC%89-zhi-shi-kuang-jia.html</link><description>&gt; 第八章 立体几何初步
+①在平面直角坐标系的基础上，了解空间直角坐标系，感受建立空间直角坐标系的必要性，会用空间直角坐标系刻画点的位置。</description><guid isPermaLink="true">https://antiwhole.github.io/CIDAxu.github.io/post/gao-zhong-shu-xue-%EF%BC%88-xuan-ze-xing-bi-xiu-yi-%EF%BC%89-zhi-shi-kuang-jia.html</guid><pubDate>Sat, 24 Jan 2026 19:28:56 +0000</pubDate></item><item><title>高中数学（必修三）知识框架</title><link>https://antiwhole.github.io/CIDAxu.github.io/post/gao-zhong-shu-xue-%EF%BC%88-bi-xiu-san-%EF%BC%89-zhi-shi-kuang-jia.html</link><description>&gt; 第八章 立体几何初步
 
 **课标要求**
 
 - 基本立体图形：
-①利用实物、计算机软件等观察空间图形，认识柱、锥、台、球及简单组合体的结构特征，能运用这些特征描述现实生活中简单物体的结构。</description><guid isPermaLink="true">https://antiwhole.github.io/Alicexu.github.io/post/gao-zhong-shu-xue-%EF%BC%88-bi-xiu-san-%EF%BC%89-zhi-shi-kuang-jia.html</guid><pubDate>Sat, 24 Jan 2026 18:27:06 +0000</pubDate></item><item><title>高中数学（必修二）知识框架</title><link>https://antiwhole.github.io/Alicexu.github.io/post/gao-zhong-shu-xue-%EF%BC%88-bi-xiu-er-%EF%BC%89-zhi-shi-kuang-jia.html</link><description>&gt; 第五章 三角函数
+①利用实物、计算机软件等观察空间图形，认识柱、锥、台、球及简单组合体的结构特征，能运用这些特征描述现实生活中简单物体的结构。</description><guid isPermaLink="true">https://antiwhole.github.io/CIDAxu.github.io/post/gao-zhong-shu-xue-%EF%BC%88-bi-xiu-san-%EF%BC%89-zhi-shi-kuang-jia.html</guid><pubDate>Sat, 24 Jan 2026 18:27:06 +0000</pubDate></item><item><title>高中数学（必修二）知识框架</title><link>https://antiwhole.github.io/CIDAxu.github.io/post/gao-zhong-shu-xue-%EF%BC%88-bi-xiu-er-%EF%BC%89-zhi-shi-kuang-jia.html</link><description>&gt; 第五章 三角函数
 
 **课标要求**
 
 - 角与弧度制，了解任意角的概念和弧度制，能进行弧度与角度的互换，体会引入弧度制的必要性
 - 三角函数概念和性质：
 ①借助单位圆理解三角函数（正弦、余弦、正切）的定义，能画出这些三角函数的图象，了解三角函数的相关性质；
-②借助图象理解正弦函数、余弦函数在[0, 2π]上，正切函数在(-π/2, π/2)上的性质。</description><guid isPermaLink="true">https://antiwhole.github.io/Alicexu.github.io/post/gao-zhong-shu-xue-%EF%BC%88-bi-xiu-er-%EF%BC%89-zhi-shi-kuang-jia.html</guid><pubDate>Sat, 24 Jan 2026 17:07:07 +0000</pubDate></item><item><title>高中数学（必修一）知识框架</title><link>https://antiwhole.github.io/Alicexu.github.io/post/gao-zhong-shu-xue-%EF%BC%88-bi-xiu-yi-%EF%BC%89-zhi-shi-kuang-jia.html</link><description>&gt; 第一章 集合与常用逻辑用语
+②借助图象理解正弦函数、余弦函数在[0, 2π]上，正切函数在(-π/2, π/2)上的性质。</description><guid isPermaLink="true">https://antiwhole.github.io/CIDAxu.github.io/post/gao-zhong-shu-xue-%EF%BC%88-bi-xiu-er-%EF%BC%89-zhi-shi-kuang-jia.html</guid><pubDate>Sat, 24 Jan 2026 17:07:07 +0000</pubDate></item><item><title>高中数学（必修一）知识框架</title><link>https://antiwhole.github.io/CIDAxu.github.io/post/gao-zhong-shu-xue-%EF%BC%88-bi-xiu-yi-%EF%BC%89-zhi-shi-kuang-jia.html</link><description>&gt; 第一章 集合与常用逻辑用语
 
 **课标要求**
 
 集合的概念与表示：
-1. 通过实例，了解集合的含义，理解元素与集合的属于关系。</description><guid isPermaLink="true">https://antiwhole.github.io/Alicexu.github.io/post/gao-zhong-shu-xue-%EF%BC%88-bi-xiu-yi-%EF%BC%89-zhi-shi-kuang-jia.html</guid><pubDate>Sat, 24 Jan 2026 16:00:43 +0000</pubDate></item></channel></rss>
+1. 通过实例，了解集合的含义，理解元素与集合的属于关系。</description><guid isPermaLink="true">https://antiwhole.github.io/CIDAxu.github.io/post/gao-zhong-shu-xue-%EF%BC%88-bi-xiu-yi-%EF%BC%89-zhi-shi-kuang-jia.html</guid><pubDate>Sat, 24 Jan 2026 16:00:43 +0000</pubDate></item></channel></rss>
